@@ -1,8 +1,11 @@
 .top-navigation {
-	background-color: #fff;
+	background-color: LightGray;
 }
 .top-navigation > .content {
 	width: 970px;
 	height: 70px;
 	margin: 0 auto;
+}
+.top-navigation > .logo {
+
 }
